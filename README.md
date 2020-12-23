@@ -15,10 +15,10 @@ Along with all these features, users can interact with each other via provided b
  5. Get best Repair options around.
 
 # Model Details
- Dataset 
-   Train images 700
-   Test Images 220
- “Imagenet” Transfer Learning
- “Softmax” Activation Function
- “Adam” optimizer
- “Categorical crossentropy” Loss Function
+ > Dataset 
+   -Train images 700
+   -Test Images 220
+ > “Imagenet” Transfer Learning
+ > “Softmax” Activation Function
+ > “Adam” optimizer
+ > “Categorical crossentropy” Loss Function
