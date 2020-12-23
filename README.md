@@ -5,3 +5,20 @@ Convolution Neural Network (CNN) can be used for the understanding, detecting an
 The damages can be of any type like bumper dent, door dent, glass shatter, head lamp broken, scratch and smash.
 Moreover, this system also allows customization of car by enabling the user to put stickers on their car and have a new look of their car before physical customization.
 Along with all these features, users can interact with each other via provided built-in social network.
+
+# Project Scope
+ 
+ Detect the car using images and extract it’s Make.
+ Detect all damaged parts.
+ Estimate repair cost.
+ Get live biddings from mechanics and vendors.
+ Get best Repair options around.
+
+# Model Details
+Dataset 
+  Train images 700
+  Test Images 220
+“Imagenet” Transfer Learning
+“Softmax” Activation Function
+“Adam” optimizer
+“Categorical crossentropy” Loss Function
