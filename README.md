@@ -8,17 +8,17 @@ Along with all these features, users can interact with each other via provided b
 
 # Project Scope
  
- Detect the car using images and extract it’s Make.
- Detect all damaged parts.
- Estimate repair cost.
- Get live biddings from mechanics and vendors.
- Get best Repair options around.
+ 1. Detect the car using images and extract it’s Make.
+ 2. Detect all damaged parts.
+ 3. Estimate repair cost.
+ 4. Get live biddings from mechanics and vendors.
+ 5. Get best Repair options around.
 
 # Model Details
-Dataset 
+# Dataset 
   Train images 700
   Test Images 220
-“Imagenet” Transfer Learning
-“Softmax” Activation Function
-“Adam” optimizer
-“Categorical crossentropy” Loss Function
+# “Imagenet” Transfer Learning
+# “Softmax” Activation Function
+# “Adam” optimizer
+# “Categorical crossentropy” Loss Function
